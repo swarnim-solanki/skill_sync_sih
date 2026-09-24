@@ -1,0 +1,6 @@
+Student_ID,Target_Role,Course_Link,Approval_Status,Teacher_Score
+S001,Data Scientist,https://www.coursera.org/specializations/jhu-data-science,Scored,4
+S002,Embedded Systems Engineer,https://www.udemy.com/course/embedded-systems-bare-metal-programming/,Scored,4
+S003,Web Developer,https://www.freecodecamp.org/learn,Pending,0
+S004,Machine Learning Engineer,https://www.coursera.org/specializations/machine-learning-introduction,Pending,0
+S005,Data Analyst,https://www.kaggle.com/learn,Pending,0

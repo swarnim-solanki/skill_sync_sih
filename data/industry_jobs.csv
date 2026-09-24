@@ -1,0 +1,6 @@
+﻿Job_Role,Required_Technical_Skills,Required_Soft_Skills,Recommended_Training_Link
+Data Scientist,"Python,SQL,Machine Learning,Statistics,TensorFlow,NumPy","Communication,Critical Thinking,Problem Solving",https://www.coursera.org/specializations/jhu-data-science
+Machine Learning Engineer,"Python,TensorFlow,PyTorch,Scikit-learn,Docker,Git","Collaboration,Critical Thinking,Attention to Detail",https://www.coursera.org/specializations/machine-learning-introduction
+Web Developer,"HTML,CSS,JavaScript,React,Node.js,Git","Creativity,Communication,Teamwork",https://www.freecodecamp.org/learn
+Data Analyst,"Python,SQL,Excel,Power BI,Statistics","Presentation,Attention to Detail,Communication",https://www.kaggle.com/learn
+Embedded Systems Engineer,"C,C++,MATLAB,RTOS,Microcontrollers","Problem Solving,Attention to Detail,Teamwork",https://www.udemy.com/course/embedded-systems-bare-metal-programming/

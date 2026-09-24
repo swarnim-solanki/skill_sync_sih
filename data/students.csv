@@ -1,0 +1,7 @@
+﻿Student_ID,Name,Degree,Target_Job_Role,Technical_Skills,Soft_Skills
+S001,Aarav Shah,B.Tech CSE,Data Scientist,"Python,SQL,NumPy","Communication,Teamwork"
+S002,Priya Nair,B.Tech ECE,Embedded Systems Engineer,"C,MATLAB","Problem Solving,Attention to Detail"
+S003,Rohan Mehta,BCA,Web Developer,"HTML,CSS,JavaScript","Creativity,Communication"
+S004,Sneha Reddy,M.Tech AI,Machine Learning Engineer,"Python,TensorFlow,Scikit-learn","Critical Thinking,Collaboration"
+S005,Arjun Patel,B.Sc CS,Data Analyst,"Excel,SQL","Presentation,Teamwork"
+S006,Neha Sharma,B.Tech CSE,Data Scientist,"Python,SQL,NumPy,Machine Learning,Statistics,TensorFlow","Communication,Critical Thinking,Problem Solving"
